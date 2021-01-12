@@ -6,4 +6,4 @@
 ## 정렬(Sort)
 * [선택 정렬(Selection Sort)](https://github.com/beansbin/Python-Programming-Team-Notes/commit/0594cbc55fccec489f97d6d66900f77854e31cfd)
 * [삽입 정렬(Insertion Sort)](https://github.com/beansbin/Python-Programming-Team-Notes/blob/master/Sort/Insertion_Sort.py)
-
+* [퀵 정렬(Quick Sort)](https://github.com/beansbin/Python-Programming-Team-Notes/blob/master/Sort/Quick_sort.py)
