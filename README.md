@@ -11,3 +11,4 @@
 
 ## 탐색(Search)
 * [순차 탐색(Sequential Serach)](https://github.com/beansbin/Python-Programming-Team-Notes/commit/c7717a786fb5963a6db02c62807b377a652eb5a9)
+* [이진 탐색(Binary_Search)](https://github.com/beansbin/Python-Programming-Team-Notes/commit/65c4048c56186ff6ff0d9a2ccf01d979bf32c5bc)
