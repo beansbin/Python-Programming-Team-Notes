@@ -8,3 +8,6 @@
 * [삽입 정렬(Insertion Sort)](https://github.com/beansbin/Python-Programming-Team-Notes/blob/master/Sort/Insertion_Sort.py)
 * [퀵 정렬(Quick Sort)](https://github.com/beansbin/Python-Programming-Team-Notes/blob/master/Sort/Quick_sort.py)
 * [계수 정렬(Count Sort)](https://github.com/beansbin/Python-Programming-Team-Notes/blob/master/Sort/Count_Sort.py)
+
+## 탐색(Search)
+* [순차 탐색(Sequential Serach)](https://github.com/beansbin/Python-Programming-Team-Notes/commit/c7717a786fb5963a6db02c62807b377a652eb5a9)
